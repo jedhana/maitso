@@ -20,7 +20,6 @@ img{
   }
 }
 
-
 .para {
 	width: 100%;
 	text-align: center;
@@ -29,11 +28,7 @@ img{
 	margin: 0 auto;
 	color: white;
 }
-@media screen and (max-width: 1200px) {
-  .para {
 
-  }
-}
 
 a{
 	text-decoration: none;
@@ -42,7 +37,6 @@ a{
 p{
 	color: white;
 	font-family: 'Montserrat', sans-serif;
-	text-decoration: none;
 }
 
 @media screen and (max-width: 1200px) {
@@ -50,8 +44,6 @@ p{
   	font-size: 20px;
   	text-align: center;
   	font-weight: 100;
-
-
   }
 }
 
